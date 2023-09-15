@@ -4,3 +4,6 @@ Criando um arquivo para ver alterações com o git diff
 1) primeira linha inserida.
 
 2) segunda linha inserida
+
+3) linha inserida.
+
