@@ -3,6 +3,6 @@ arquivoDeBackup.sql
 *.txt
 *.html
 
-
+SUBPASTA_2/
 
 # Ignora arquivos TXT e um arquivo específico de SQL
