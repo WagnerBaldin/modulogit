@@ -1,5 +1,6 @@
 
 arquivoDeBackup.sql
 *.txt
+*.html
 
 # Ignora arquivos TXT e um arquivo específico de SQL
