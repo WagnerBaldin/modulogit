@@ -1,11 +1,10 @@
 
-Meu primeiro sistema no GIT.
+Arquivo de informações.
+Isso é só um exemplo usado para aprender alguns comandos no Git
+Como outras vezes, sempre venho aqui, apqago repositório e envio 
+novamente os arquivos para treinar os comandos. 
 
-Alteração que vaio aparecer no Diff.
-
-Vamos ver se essa aparece agora.
-
-Nova alteração
+Nada de mais.
 
 
 
