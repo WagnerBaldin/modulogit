@@ -1,0 +1,5 @@
+
+arquivoDeBackup.sql
+*.txt
+
+# Ignora arquivos TXT e um arquivo específico de SQL
