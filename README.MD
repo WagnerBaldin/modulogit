@@ -23,8 +23,8 @@ faça os seguintes passos básicos:
 	
 	git log	- para ver o justórico dos commits feitos.
 	
-5)  se Aparecer mensagem de erro dizendo que o repositório local está atrasado
-	em relação ao repositório remoto, faça antes das alterações um pull
+5)  Se aparecer alguma mensagem de erro dizendo que o repositório local está atrasado
+    em relação ao repositório remoto, faça antes das alterações um pull
 	
 	git pull origin main    - para atualizar o local com o remoto
 	git push -u origin main - agora os arquivos são enviados.
